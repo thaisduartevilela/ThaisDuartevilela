@@ -1,8 +1,8 @@
 ### Olá, eu sou  Thais Duarte 👋
 
 
-                        🌱 “ As coisas não acontecem sozinhas, você faz elas acontecerem.” 🌱
-                                                                               Gabi Lopes
+                                            🌱 “ As coisas não acontecem sozinhas, você faz elas acontecerem.” 🌱
+                                                                                                   Gabi Lopes
 <div align="center">
   <a href="https://github.com/thaisduartevilela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisduartevilela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,7 @@
   <img align="center" alt="Thata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thata-C++Builder" height="30" width="40" src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2021/10/CBuilder_11_512x512@1x-2071706-2025123-8260786-6273452-1802095.png?w=750&ssl=1">
-  <img align="right" alt="Thata-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Thata-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1054476955031973959/1054480796326568027/Design_sem_nome.gif">
 </div>
   
   ##
