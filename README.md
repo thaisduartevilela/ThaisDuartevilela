@@ -1,7 +1,7 @@
 ### Olá, eu sou  Thais Duarte 👋
 
 
-                                        🌱 “ As coisas não acontecem sozinhas, você faz elas acontecerem.” 🌱
+🌱 “ As coisas não acontecem sozinhas, você faz elas acontecerem.” 🌱
                                                                                                Gabi Lopes
 <div align="center">
   <a href="https://github.com/thaisduartevilela">
