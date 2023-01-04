@@ -1,4 +1,4 @@
-### Olá, eu sou  Thais Duarte Vilela ☺️👋
+### Olá, eu sou  Thais Duarte ☺️👋
 
 
 🌱 “ As coisas não acontecem sozinhas,
